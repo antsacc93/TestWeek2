@@ -1,0 +1,5 @@
+Descrizione,DataScadenza,Importanza
+Task1 creazione del progetto,14/06/2021,Basso
+Task3,05/06/2022,Medio
+Task di prova,27/07/2021,Alto
+Task non corretto,09/09/2022,Alto
